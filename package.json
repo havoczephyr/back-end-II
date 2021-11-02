@@ -1,0 +1,25 @@
+{
+  "name": "back-end-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/havoczephyr/back-end-II.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/havoczephyr/back-end-II/issues"
+  },
+  "homepage": "https://github.com/havoczephyr/back-end-II#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "i": "^0.3.7"
+  }
+}
